@@ -4,5 +4,10 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+``` javascript
+var myVar = "Hello, World!";
+```
+
 Added three headers of different sizes to file.
 Added image of Yaktocat
+Added javascript for hello world
